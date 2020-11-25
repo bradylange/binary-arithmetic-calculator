@@ -9,7 +9,7 @@ Op Sys Programming
 
 Assignment 2
 
-## `src/binary_add_sub_calc.c
+## `src/binary_add_sub_calc.c`
 This program takes two 8-bit binary numbers and an operator which is either + or -.
 Based upon the operator a calculation will be executed with binary arithmetic. 
 Calculations that lead to overflows or underflows will be handled. The program consists
